@@ -1,0 +1,44 @@
+[
+  {
+    "token": "ufaz_sess_2cc03de8610d30e0a6c12ae59152120701d0d96d4ea1006965268dce3d4726f6",
+    "userId": "usr_22422996",
+    "createdAt": 1789393697739,
+    "expiresAt": 1789998497739
+  },
+  {
+    "token": "ufaz_sess_25c86dcffead695f2981fb982bc88e6fe018665bac627ebf093c3dfe80f295f5",
+    "userId": "usr_22422996",
+    "createdAt": 1789394206526,
+    "expiresAt": 1789999006526
+  },
+  {
+    "token": "ufaz_sess_6d0903d8bab651f8f89ffe90a4a00d9901ca2abb4e947ac164606c7f5b1bafc3",
+    "userId": "usr_22423021",
+    "createdAt": 1789394607355,
+    "expiresAt": 1789999407355
+  },
+  {
+    "token": "ufaz_sess_8dd9a7e06823bf8781e9752e9114f7589fc086527b7360d4eae2da2ab9b8b468",
+    "userId": "usr_22423021",
+    "createdAt": 1789394607362,
+    "expiresAt": 1789999407362
+  },
+  {
+    "token": "ufaz_sess_35bcb07aa444f0ad2b43212fac09f7c260777af9c662cd829f5f6998f4ea6cf5",
+    "userId": "usr_22422996",
+    "createdAt": 1789394620802,
+    "expiresAt": 1789999420802
+  },
+  {
+    "token": "ufaz_sess_93ff479c280fb8ff6f0ff99a30ccb25db9cf591f33e831365a9c4907bd7e1dde",
+    "userId": "usr_22422996",
+    "createdAt": 1789394620809,
+    "expiresAt": 1789999420809
+  },
+  {
+    "token": "ufaz_sess_ec2777947b2cd7aa21e11277a8559eacb757b915e84a5296316d33bd29428242",
+    "userId": "usr_22422996",
+    "createdAt": 1789394745964,
+    "expiresAt": 1789999545964
+  }
+]

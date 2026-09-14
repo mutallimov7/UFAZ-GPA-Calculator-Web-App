@@ -1,0 +1,6 @@
+{
+  "name": "UFAZ Academic GPA & Ranking Platform",
+  "description": "Comprehensive academic management, grade calculation, cohort ranking, and GPA simulation platform for UFAZ students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
